@@ -1,1 +1,1 @@
--statusline1status
+line1\nline2\nline3\n
